@@ -1,7 +1,5 @@
 import React from "react";
 
-
-
 const Button = ({id,handleClick}) => {
     
     const className = `button button-${id}`;
